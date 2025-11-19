@@ -3,7 +3,7 @@ body {
   color: rgb(107, 30, 30);
   text-align: center;
   margin: 0;
-  cursor: url("tiger.cur.png"), pointer;
+  cursor: url("tiger.cur"), pointer;
 }
 
 .page {
@@ -154,3 +154,4 @@ audio {
 
 
 /* Kerja secara mandiri */
+
